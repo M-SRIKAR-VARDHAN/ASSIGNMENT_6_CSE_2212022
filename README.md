@@ -3,7 +3,7 @@ This repository contains the codes/solution of assignment 6.
 
 *1)Write a program to generate prime numbers using the Sieve of Eratosthenes method*
  
-
+https://github.com/M-SRIKAR-VARDHAN/ASSIGNMENT_6_CSE_2212022/commit/47d63e3679556ec0a20e7aa24e08283cfdde6485
  
 Compilation:
 
@@ -52,7 +52,7 @@ The resulting list would be: 2, 3, 5, 7, which are the prime numbers up to 10.
 **2)Write a program to generate a random one-time password of eight characters long. The password
 should contain at least one small letter, one capital letter, one symbol, and one digit.**
 
- 
+ https://github.com/M-SRIKAR-VARDHAN/ASSIGNMENT_6_CSE_2212022/commit/5b68b98100da5abf12b87313b0eef74cb5b3e27e
 
 Compilation:
 
@@ -65,7 +65,8 @@ Running the code:
 **3)Given two array X[2][n] and Y [2][n] containing random numbers, i.e., 2 rows and n columns.
 Write a program to solve the following equation**
 
- 
+
+ https://github.com/M-SRIKAR-VARDHAN/ASSIGNMENT_6_CSE_2212022/commit/8b6f90314ccd1a2d911f4260a4ba7312367cc4c2
  
 Compilation:
 
@@ -78,7 +79,7 @@ Running the code:
 **4)Given an array A[] containing n random numbers. Write a program to find the mean, variance,
 and standard deviation of the given array.**
 
- 
+ https://github.com/M-SRIKAR-VARDHAN/ASSIGNMENT_6_CSE_2212022/commit/2896c509d5b84bd779fa13c0f7bd4e0e2fda3d41
  
  Compilation:
 
