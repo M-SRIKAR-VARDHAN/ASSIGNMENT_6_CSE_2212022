@@ -1,4 +1,4 @@
-# ASSIGNMENT-6-CSE-2212020 BY SUBHAM MAJUMDER
+# ASSIGNMENT-6-CSE-2212022 BY SRIKAR VARDHAN 
 This repository contains the codes/solution of assignment 6.
 
 *1)Write a program to generate prime numbers using the Sieve of Eratosthenes method*
